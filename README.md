@@ -51,7 +51,7 @@ Clone the repository and run it with Python:
 git clone https://github.com/sayikimm/shopping-list-app.git
 cd shopping-list-app
 python main.py
-
+```
 
 ## Concepts Practiced
 
@@ -72,6 +72,6 @@ python main.py
 
 - Create a simple GUI or web version
 
-Author
+## Author
 - Mikiyas Sisay
-github.com/sayikimm
+- github.com/sayikimm
