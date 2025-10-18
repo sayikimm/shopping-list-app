@@ -53,25 +53,22 @@ cd shopping-list-app
 python main.py
 ```
 
+---
+
 ## Concepts Practiced
 
 - Modular programming
-
 - Logging and debugging
-
 - Type hints for readability
-
 - Clean user input handling
-
 - Refactoring simple scripts into structured programs
+  
 
 ## Future Improvements
 - Save and load the shopping list from a file (shopping_list.json)
-
 - Add categories (groceries, electronics, etc.)
-
 - Create a simple GUI or web version
 
 ## Author
 - Mikiyas Sisay
-- github.com/sayikimm
+- https://github.com/sayikimm
